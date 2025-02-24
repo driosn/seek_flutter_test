@@ -1,0 +1,1 @@
+const kMaxBiometricAuthenticationAttempts = 3;
