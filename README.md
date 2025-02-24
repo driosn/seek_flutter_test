@@ -1,16 +1,41 @@
 # seek_flutter_test
 
-A new Flutter project.
+Prueba técnica para puesto de Flutter Developer Senior / Android - David Rios
 
-## Getting Started
+Versión de Flutter: 3.24.1
 
-This project is a starting point for a Flutter application.
+Para correr el proyecto ejecutar 
 
-A few resources to get you started if this is your first Flutter project:
+```
+dart run build_runner build --delete-conflicting-outputs
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ejemplo
+La se intenta ingresar 3 veces con autenticación fingerprint y luego con PIN de seguridad
+
+
+
+https://github.com/user-attachments/assets/29af28ec-2704-410b-a96e-ecd5483a4f52
+
+
+Se realizaron pruebas unitarias a la capa de data, al feature de scans (insert, delete, read)
+
+
+
+
+https://github.com/user-attachments/assets/91c319fa-ce8f-4ea8-909f-482216be094d
+
+
+
+
+
+
+
+
+
+
+
